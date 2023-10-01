@@ -1,0 +1,52 @@
+p{
+    font: 1em/1.5 Helvetica;
+    background-color:rgb(172, 226, 240);
+    color:royalblue
+   
+}
+
+h1{
+color:blue;
+}
+
+a{
+    color:tomato;
+}
+
+.Sub1{
+    color: antiquewhite;
+    background-color: steelblue;
+}
+
+.Sub2{
+    color: antiquewhite;
+    background-color: rgb(76, 155, 234);
+}
+
+.Tabla{
+    background-color: steelblue;
+    color:blanchedalmond
+}
+
+#Para{
+    color:teal;
+}
+
+#Tematica{
+    color:teal;
+}
+
+#Asunto{
+    color:teal;
+}
+
+#Cuerpo{
+    color:teal;
+}
+
+.imagen1{
+    width: 350px;
+    height: 185px;
+    float: right;
+}
+
